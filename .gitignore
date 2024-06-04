@@ -1,0 +1,6 @@
+# following is ignored files,dir
+.vs/
+bin/
+bin-int/
+
+*.user
